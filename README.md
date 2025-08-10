@@ -17,4 +17,5 @@ Bu proje, SpaceX'in fırlatma verilerini kullanarak roketin başarılı bir şek
 * Support Vector Machines (SVM)
 * Decision Tree Classifier
 * K-nearest neighbors (KNN)
+  
 **Grid Search: Farklı hiperparametre kombinasyonlarını deneyerek en iyi performansı sağlayan parametreleri bulmak için kullanılır. Bu, modelin doğruluğunu artırmak için kritik bir adımdır.**
