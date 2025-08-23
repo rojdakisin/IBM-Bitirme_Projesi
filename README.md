@@ -20,3 +20,7 @@ Bu proje, SpaceX'in fırlatma verilerini kullanarak roketin başarılı bir şek
 * K-nearest neighbors (KNN)
   
 Ayrıca, farklı hiperparametre kombinasyonlarını deneyerek en iyi performansı bulmak için Grid Search (Izgara Arama) kullanıldı. Bu adım, modelin doğruluğunu artırmak için kritik öneme sahiptir.
+
+### Not
+* Folium ile oluşturulan interaktif haritalar GitHub'da doğrudan görünmez.
+* Görmek için notebook'u lokal ortamda çalıştırın.(Jupyter Notebook/ JupyterLab)
